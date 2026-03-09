@@ -1,10 +1,3 @@
-"""
-App entrypoint (lab style).
-  python app.py server   — run MCP server
-  python app.py agent    — run agent (interactive or with query)
-  python app.py agent "What is the weather in Seattle?"
-"""
-
 import asyncio
 import os
 import sys
