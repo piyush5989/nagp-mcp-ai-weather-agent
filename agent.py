@@ -1,9 +1,3 @@
-"""
-Agent (Lab style) — Natural language → intent → delegate to MCP tool → formatted response.
-Spawns the Weather MCP server (server.py) and calls get_weather(city).
-Run: python agent.py [--verbose] [query]
-"""
-
 import asyncio
 import json
 import os
