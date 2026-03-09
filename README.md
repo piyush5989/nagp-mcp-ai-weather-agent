@@ -1,6 +1,6 @@
 # Weather Agent - Agentic AI with Weather MCP
 
-**Assignment:** Build an Agentic AI using Weather MCP — one MCP tool (api.weather.gov) and one agent that accepts natural language, delegates to the tool, and returns a formatted response.
+This is an Agentic AI using Weather MCP including one MCP tool (api.weather.gov) and one agent that accepts natural language, delegates to the tool, and returns a formatted response.
 
 ---
 
