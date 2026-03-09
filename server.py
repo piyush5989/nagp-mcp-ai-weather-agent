@@ -1,9 +1,3 @@
-"""
-Weather MCP Server (Lab style) — FastMCP, one tool: get_weather(city).
-Uses https://api.weather.gov/
-Run: python server.py
-"""
-
 import json
 import urllib.request
 import urllib.error
